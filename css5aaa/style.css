@@ -1,0 +1,105 @@
+body{
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+main{
+    gap: 20px;
+    justify-self: center;
+    justify-content: center;
+    margin-bottom: 45px;
+}
+
+.topo{
+    display:flex;
+    background-color:rgb(4, 4, 54);
+    color: #ffffff;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header{
+    margin-left: 35px;
+}
+
+nav strong{
+    display: flex;
+}
+
+.topo a{
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+}
+
+.subttl{
+    background-color:rgb(23, 100, 243);
+    color: #ffffff;
+    padding: 1px;
+    text-align: center;
+}
+
+.ttlpag3{
+    text-align: center;
+}
+
+.ttlpag3 p{
+    color: #858585
+}
+
+.caards{
+    margin-left: 35px;
+}
+
+.card2{
+    background-color: #ffffff;
+    border-radius: 8px
+}
+
+.card{
+    border: 1px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    justify-content:center;
+    justify-self:center;
+    padding: 5px;
+    border-radius: 20px;
+    gap: 20px;
+    height: 320px;
+    width: 220px;
+}
+
+.card img{
+    border-radius: 20px;
+    justify-self:center;
+    width: 200px;
+    height: 200px;
+}
+
+.card p{
+    color: #858585;
+}
+
+.card strong{
+    color:black
+}
+
+body{
+    background-color:#f4f4f4;
+}
+
+.equipecards{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    
+}
+
+.rpcx{
+    line-height: 7px;
+}
+
+footer{
+    margin-left: 35px;
+}
